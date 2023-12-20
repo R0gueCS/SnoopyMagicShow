@@ -25,7 +25,7 @@ Snoopy Game is a simple terminal-based game implemented in C using the GTK libra
 
 - GTK Library
 
-## Installation
+## Installation  
 
 1. Install the GTK library on your system.
    ```bash
